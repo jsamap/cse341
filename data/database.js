@@ -3,6 +3,7 @@ dotenv.config()
 
 const MongoClient = require("mongodb").MongoClient
 
+// Added specific DNS from Cloudflare and Google to avoid local errors
 const dns = require("node:dns");
 dns.setServers(["1.1.1.1", "8.8.8.8"]);
 
