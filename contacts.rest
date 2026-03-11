@@ -1,14 +1,14 @@
 // LOCAL
 ### Get all users
-http://localhost:3080/users
+http://localhost:3080/contacts
 
 ### Get user by id
-http://localhost:3080/users/000000000000000000000001
+http://localhost:3080/contacts/000000000000000000000001
 
 
 // PROD
 ### Get all users
-GET https://js-cse341-project1.onrender.com/users
+GET https://js-cse341-project1.onrender.com/contacts
 
 ### Get user by id
-GET https://js-cse341-project1.onrender.com/users/000000000000000000000001
+GET https://js-cse341-project1.onrender.com/contacts/000000000000000000000001
