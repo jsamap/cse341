@@ -1,0 +1,43 @@
+[
+  {
+  "_id": {
+    "$oid": "000000000000000000000001"
+  },
+  "firstName": "Mark",
+  "lastName": "Hoppus",
+  "email": "mark@blink182.com",
+  "favoriteColor": "blue",
+  "birthday": "01/01/2001"
+},
+{
+  "_id": {
+    "$oid": "000000000000000000000002"
+  },
+  "firstName": "Tom",
+  "lastName": "DeLonge",
+  "email": "tom@blink182.com",
+  "favoriteColor": "pink",
+  "birthday": "02/02/2002"
+},
+{
+  "_id": {
+    "$oid": "000000000000000000000003"
+  },
+  "firstName": "Travis",
+  "lastName": "Barker",
+  "email": "travis@blink182.com",
+  "favoriteColor": "white",
+  "birthday": "03/03/2003"
+},
+{
+  "_id": {
+    "$oid": "000000000000000000000004"
+  },
+  "firstName": "Jared",
+  "lastName": "Samayoa",
+  "email": "jared@blink182.com",
+  "favoriteColor": "black",
+  "birthday": "04/04/2004"
+}
+
+]
